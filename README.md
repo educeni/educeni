@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Rio de Janeiro – RJ<br>Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p data-importer="text" align="left">Rio de Janeiro – RJ<br>eduardoceni.santos@gmail.com<br>Estudante de Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
